@@ -9,8 +9,8 @@ Demo Video: https://drive.google.com/file/d/1TigDgPovFYq6szcfeRAzifTI9jIebCft/vi
 Written Report: https://docs.google.com/document/d/1BDsTf6avxovFTqNFJhwQYjh2fyGthSocyhScDdHtqhA/edit?usp=sharing
 
 Responsibilities:
-Lilian: Paper research, modelling, Ideation and iteration
-Hari: Paper writting, Ideation and iteration, circuit design
+Lilian: Paper research, modeling, Ideation and iteration
+Hari: Paper writing, Ideation and iteration, circuit design
 William: circuit design, Paper research, Appendix writing, Citation, concept sketching
 
 ![hariSignature](https://github.com/user-attachments/assets/e7e91f5d-12d9-49e4-97e1-f8ab78e51c2a)
