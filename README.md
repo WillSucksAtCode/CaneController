@@ -8,6 +8,8 @@ Demo Video: https://drive.google.com/file/d/1TigDgPovFYq6szcfeRAzifTI9jIebCft/vi
 
 Written Report: https://docs.google.com/document/d/1BDsTf6avxovFTqNFJhwQYjh2fyGthSocyhScDdHtqhA/edit?usp=sharing
 
+Controller Model and Technical Drawing: https://drive.google.com/drive/folders/1vMk2YNApzI9VGE69qhzeVhmJxSAAc9u0?usp=sharing
+
 Responsibilities:
 Lilian: Paper research, modeling, Ideation and iteration
 Hari: Paper writing, Ideation and iteration, circuit design
