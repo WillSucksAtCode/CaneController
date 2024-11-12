@@ -6,7 +6,7 @@ Hariharan Nair Vinod  Chithra - 100812562
 
 Demo Video: https://drive.google.com/file/d/1TigDgPovFYq6szcfeRAzifTI9jIebCft/view?usp=sharing
 
-Written Report: https://docs.google.com/document/d/1BDsTf6avxovFTqNFJhwQYjh2fyGthSocyhScDdHtqhA/edit?usp=sharing
+Written Report: https://docs.google.com/document/d/1b6kGqjd9dBmmiiURiPUkexzTqSVjZ57JRmeeHVlWBDo/edit?usp=sharing
 
 Controller Model and Technical Drawing: https://drive.google.com/drive/folders/1vMk2YNApzI9VGE69qhzeVhmJxSAAc9u0?usp=sharing
 
