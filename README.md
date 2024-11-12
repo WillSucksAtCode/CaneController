@@ -6,14 +6,12 @@ Hariharan Nair Vinod  Chithra - 100812562
 
 Video Report: https://youtu.be/EhOVaUkhE44
 
-Written Report: https://docs.google.com/document/d/1b6kGqjd9dBmmiiURiPUkexzTqSVjZ57JRmeeHVlWBDo/edit?usp=sharing
-
-Controller Model and Technical Drawing: https://drive.google.com/drive/folders/1vMk2YNApzI9VGE69qhzeVhmJxSAAc9u0?usp=sharing
+Controller Model, Technical Drawings, Animation, Gantt chart, and Written Report: https://drive.google.com/drive/folders/1vMk2YNApzI9VGE69qhzeVhmJxSAAc9u0?usp=sharing
 
 Responsibilities:
-Lilian: Paper research, modeling, Ideation and iteration
-Hari: Paper writing, Ideation and iteration, circuit design
-William: circuit design, Paper research, Appendix writing, Citation, concept sketching
+Lilian: Paper research, Conclusion writing, Progression chart, Reviewed paper formatting.
+Hari: CAD Modelling, Abstract, introduction and results writing.
+William: Video, Technical drawings, Animation
 
 ![hariSignature](https://github.com/user-attachments/assets/e7e91f5d-12d9-49e4-97e1-f8ab78e51c2a)
 ![Signature](https://github.com/user-attachments/assets/722b68a4-56fa-4d9e-ac25-8ed3d80f8724)
