@@ -11,9 +11,9 @@ Controller Models, Technical Drawings, Animation, Gantt chart, Arduino Code, and
 Unity Project: https://drive.google.com/file/d/1FNALgcY_7pzVCb6EzTiDTTVAMIG802Yo/view?usp=sharing
 
 Responsibilities:
-Lilian: Paper research, Conclusion writing, Progression chart, Reviewed paper formatting.
-Hari: CAD Modelling, Abstract, introduction and results writing.
-William: Video, Technical drawings, Animation
+Lilian: Paper research, Report writing, Progression chart, Model review, Presentation.
+Hari: CAD Modelling, Report writing, Circuit assembly.
+William: Video, Technical drawings, Animation, Programming.
 
 ![hariSignature](https://github.com/user-attachments/assets/e7e91f5d-12d9-49e4-97e1-f8ab78e51c2a)
 ![Signature](https://github.com/user-attachments/assets/722b68a4-56fa-4d9e-ac25-8ed3d80f8724)
