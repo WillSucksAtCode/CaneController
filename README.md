@@ -4,7 +4,7 @@ Lilian Anderson - 100822492
 William Heath - 100829482
 Hariharan Nair Vinod  Chithra - 100812562
 
-Video Report: https://youtu.be/EhOVaUkhE44
+Video Report: https://youtu.be/y4cYlHU-LqE
 
 Controller Models, Technical Drawings, Animation, Gantt chart, Arduino Code, and Written Report: https://drive.google.com/drive/folders/1vMk2YNApzI9VGE69qhzeVhmJxSAAc9u0?usp=sharing
 
