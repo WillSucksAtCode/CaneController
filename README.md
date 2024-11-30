@@ -10,6 +10,13 @@ Controller Models, Technical Drawings, Animation, Gantt chart, Arduino Code, and
 
 Unity Project: https://drive.google.com/file/d/1FNALgcY_7pzVCb6EzTiDTTVAMIG802Yo/view?usp=sharing
 
+GRABCAD Models:
+https://grabcad.com/library/push_button_6x6x5mm-1
+https://grabcad.com/library/5mm-led-red-1
+https://grabcad.com/library/mini-protoboard-170-puntos-1
+https://grabcad.com/library/breadboard-400-pin-1
+https://grabcad.com/library/seeed-studio-xiao-nrf52840-sense-1
+
 Responsibilities:
 Lilian: Paper research, Report writing, Progression chart, Model review, Presentation.
 Hari: CAD Modelling, Report writing, Circuit assembly.
